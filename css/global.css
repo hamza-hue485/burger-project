@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Barlow Condensed", sans-serif;
+}
+html {
+    scroll-behavior: smooth;
+}
+.container {
+    width: 85%;
+    margin: auto;
+    overflow: auto;
+}
+.float-left {
+    float:left;
+}
+.float-right {
+    float:right;
+}
+.title {
+    text-align: center;
+    color:#fff;
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+section {
+     padding: 40px 0;
+}
